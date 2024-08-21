@@ -1,1 +1,5 @@
-# Grupo_1_Taller-Python
+# TAREA
+Este repositorio contiene 
+* Tarea 1
+* Tarea 2
+* Tarea 3
